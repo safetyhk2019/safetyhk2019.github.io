@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Geared Slab';
+    src: url('GearedSlab-Regular.woff2') format('woff2'),
+        url('GearedSlab-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geared Slab';
+    src: url('GearedSlab-Extrabold.woff2') format('woff2'),
+        url('GearedSlab-Extrabold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geared Slab';
+    src: url('GearedSlab-Bold.woff2') format('woff2'),
+        url('GearedSlab-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geared Slab';
+    src: url('GearedSlab-Thin.woff2') format('woff2'),
+        url('GearedSlab-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
